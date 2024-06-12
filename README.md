@@ -6,9 +6,8 @@
   - Position: Junior Java Developer  
   - Location: Leskovac, Serbia  
   - Email: marijagicic@hotmail.rs  
-  - LinkedIn: mm-soft  
-  - GitHub: MarryMN  
-  - Website: mm-soft.rs
+  - LinkedIn: https://www.linkedin.com/in/mm-soft/ 
+  - Website: https://www.mm-soft.rs/
   
 🔸Skills and Competencies:
 
@@ -32,24 +31,24 @@
 🔸Projects:
   
   - M&M-shop  
-  Technologies: Java, Spring Boot, HTML, MySQL
-  Description: Web application with functionalities for login, registration, user and admin roles (add, edit, and delete products).
-  GitHub: MM-shop
+Technologies: Java, Spring Boot, HTML, MySQL.
+Description: Web application with functionalities for login, registration, user and admin roles (add, edit, and delete products).
+GitHub: https://github.com/MarryMN/MM-shop
   
   - Wallet App  
-  Technologies: React JavaScript, HTML, CSS
-  Description: Web application for tracking bitcoin value, with functionalities for buying, selling, investing, and exchanging.
-  GitHub: wallet_app
+Technologies: React JavaScript, HTML, CSS.
+Description: Web application for tracking bitcoin value, with functionalities for buying, selling, investing, and exchanging.
+GitHub: https://github.com/MarryMN/wallet_app
    
   - Kitchen
-  Technologies: Java, SQLite
-  Description: Java project for restaurants and cafes, with a SQLite database.
-  GitHub: Kitchen
+Technologies: Java, SQLite.
+Description: Java project for restaurants and cafes, with a SQLite database.
+GitHub: https://github.com/MarryMN/Kitchen
   
   - Body Mass Index
-  Technologies: JavaScript, HTML, CSS
-  Description: Web application for calculating Body Mass Index, with tips.
-  GitHub: Body-Mass-index
+Technologies: JavaScript, HTML, CSS.
+Description: Web application for calculating Body Mass Index, with tips.
+GitHub: https://github.com/MarryMN/Body-Mass-index
   
 🔸Education:
 
